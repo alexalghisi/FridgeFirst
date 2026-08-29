@@ -48,5 +48,5 @@
     "vitest": "^4.1.10"
   },
   "name": "fridgefirst",
-  "description": "Cook from what is already in the fridge. Recipes light up when the ingredients are home. Food waste is the bug."
+  "description": "Inventory-constrained cooking: recipes unlock only when every required ingredient is on hand."
 }
