@@ -1,9 +1,10 @@
 # FridgeFirst
 
-A third of food is wasted. The fridge already has eggs, onion, potato, bread.
-Recipes light up when the ingredients are home. Caprese waits for a tomato.
+Inventory-constrained cooking: a recipe is available only when every required
+ingredient is already in the household. The aim is less food waste, not a
+content feed of meals you cannot make.
 
-Rules in [`src/lib/cook.ts`](src/lib/cook.ts).
+Availability is [`src/lib/cook.ts`](src/lib/cook.ts).
 
 **React 19 · TypeScript (strict) · Vite 8 · Tailwind CSS 4 · Zustand · Vitest ·
 Playwright**
@@ -23,11 +24,11 @@ and Logs (Mountain View).
 | -------- | --------------------------------------------------------------------------------------- |
 | GitHub   | [github.com/alexalghisi](https://github.com/alexalghisi)                                |
 | LinkedIn | [linkedin.com/in/alghisi](https://www.linkedin.com/in/alghisi)                          |
-| Email    | [alessandro@onlineparentingprograms.com](mailto:alessandro@onlineparentingprograms.com) |
+| Email    | [alexalghisi@gmail.com](mailto:alexalghisi@gmail.com)                                   |
 | Location | Cluj-Napoca, Romania · open to remote / EU / US-friendly timezones                      |
 
 **Hiring?** Open an issue, message me on LinkedIn, or email
-[alessandro@onlineparentingprograms.com](mailto:alessandro@onlineparentingprograms.com).
+[alexalghisi@gmail.com](mailto:alexalghisi@gmail.com).
 
 ---
 
