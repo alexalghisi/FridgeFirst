@@ -4,6 +4,10 @@ Inventory-constrained cooking: a recipe is available only when every required
 ingredient is already in the household. The aim is less food waste, not a
 content feed of meals you cannot make.
 
+**Download:** [latest release](https://github.com/alexalghisi/FridgeFirst/releases/latest)
+
+![FridgeFirst running](docs/preview.png)
+
 Availability is [`src/lib/cook.ts`](src/lib/cook.ts).
 
 **React 19 · TypeScript (strict) · Vite 8 · Tailwind CSS 4 · Zustand · Vitest ·
